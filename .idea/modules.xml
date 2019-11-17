@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/truffle-framework-nacos-sample.iml" filepath="$PROJECT_DIR$/truffle-framework-nacos-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truffle-framework-sample-server/truffle-framework-sample-server.iml" filepath="$PROJECT_DIR$/truffle-framework-sample-server/truffle-framework-sample-server.iml" />
+    </modules>
+  </component>
+</project>
