@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: nacos-client
+  profiles:
+    active: dev
+
+fxSwagger:
+  basePackage: com.maotan.truffle.nacos.client.controller
+  enable: true
+  title: nacos-client
+  description: API文档
+

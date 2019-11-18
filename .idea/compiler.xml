@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="truffle-framework-nacos-client" />
         <module name="truffle-framework-sample-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="truffle-framework-nacos-client" target="11" />
       <module name="truffle-framework-nacos-sample" target="1.5" />
       <module name="truffle-framework-sample-server" target="11" />
     </bytecodeTargetLevel>

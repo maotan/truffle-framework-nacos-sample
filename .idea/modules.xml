@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/truffle-framework-nacos-client/truffle-framework-nacos-client.iml" filepath="$PROJECT_DIR$/truffle-framework-nacos-client/truffle-framework-nacos-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/truffle-framework-nacos-sample.iml" filepath="$PROJECT_DIR$/truffle-framework-nacos-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/truffle-framework-sample-server/truffle-framework-sample-server.iml" filepath="$PROJECT_DIR$/truffle-framework-sample-server/truffle-framework-sample-server.iml" />
     </modules>
